@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 CMakeFiles/practica1.dir/SRC/aux.cpp.o CMakeFiles/practica1.dir/SRC/practica1.cpp.o CMakeFiles/practica1.dir/SRC/main.cpp.o -o /home/usuario/Escritorio/Metaheurísticas/Prácticas/Practica1/software/BIN/practica1 
