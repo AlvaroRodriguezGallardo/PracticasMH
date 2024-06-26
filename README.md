@@ -8,4 +8,4 @@ Three works:
 - ``Práctica 2``: Implementation of Genetic and Memetic Algorithms.
 - ``Práctica 3``: Implementation of Simulated Cooling, Multiboot Search, ILS and ES-ILS, that merges ILS with SC.
 
-It is a pseudorandom implementation thanks to 
+It is a pseudorandom implementation thanks to the implementation provided in this [repository](https://github.com/effolkronium/random).
